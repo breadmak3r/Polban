@@ -1,8 +1,8 @@
-hey, alnez here.
+hey, alnez here
 
-im studying informatics in POLBAN (Politeknik Negeri Bandung). i came to Polban in mid-2023
+im studying informatics in POLBAN (Politeknik Negeri Bandung). i went to polban in mid-2023
 
-this repository is for everything ive done in Polban
+this repository is for everything ive done in polban informatics engineering
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⡷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
