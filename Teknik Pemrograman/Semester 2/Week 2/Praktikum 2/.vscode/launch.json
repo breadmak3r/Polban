@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "soal5",
+            "request": "launch",
+            "mainClass": "soal5",
+            "projectName": "prak2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "soal1",
+            "request": "launch",
+            "mainClass": "soal1",
+            "projectName": "prak2"
+        },
+        {
+            "type": "java",
+            "name": "soal2Constants",
+            "request": "launch",
+            "mainClass": "soal2Constants",
+            "projectName": "prak2"
+        },
+        {
+            "type": "java",
+            "name": "soal2Constants2",
+            "request": "launch",
+            "mainClass": "soal2Constants2",
+            "projectName": "prak2"
+        },
+        {
+            "type": "java",
+            "name": "soal3",
+            "request": "launch",
+            "mainClass": "soal3",
+            "projectName": "prak2"
+        },
+        {
+            "type": "java",
+            "name": "soal4",
+            "request": "launch",
+            "mainClass": "soal4",
+            "projectName": "prak2"
+        }
+    ]
+}
