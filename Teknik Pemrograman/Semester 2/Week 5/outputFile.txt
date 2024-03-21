@@ -1,0 +1,38 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: Store ABC
+Employee Name: John Doe
+Base Pay: $2000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $15.0/hr
+Total Sales in store: $500000.0
+Sales done: $10000.0
+Percentage of sales done: 2.00%
+Gross Payment: $2860.0
+Remaining store revenue: $405783.0
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+1. Sales Associate Details:
+Store Details: Store XYZ
+Employee Name: Jane Smith
+Base Pay: $10.0
+Number of Hours worked: 35.0hrs
+Payment Rate per hour: $20.0/hr
+Sales Rate: 25.0%
+Total commission: $0.0
+Gross Payment: $710.0
+******************************************************
+Number of employees working as SECURITY GUARDS are: 1
+******************************************************
+1. Security Guard Details:
+Store Details: Store LMN
+Employee Name: Bob Johnson
+Base Pay: $12.0
+Number of Hours worked: 30.0hrs
+Payment Rate per hour: $10.0/hr
+Security Hours: 8.0
+
+Gross Payment: $312.0

@@ -1,0 +1,22 @@
+Manager
+Store ABC
+John Doe
+2000.00
+40
+15
+10000
+500000
+Sales Associate
+Store XYZ
+Jane Smith
+10.00
+35
+20
+0.25
+Security Guard
+Store LMN
+Bob Johnson
+12.00
+30
+10
+8

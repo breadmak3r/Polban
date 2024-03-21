@@ -15,6 +15,7 @@ public class Manager extends AbstractStoreEmployee {
     private double bonusRate;
     private double salesDone;
     private double totalStoreSales;
+    private double basePay;
 
     /**
      * This is an Argument constructor which Initializes all the Instance
@@ -158,4 +159,8 @@ public class Manager extends AbstractStoreEmployee {
                 + "\nSales done: $" + salesDone;
     }
 
+    @Override
+    public double calculateBonus() {
+        return 0.05 * basePay;
+    }
 }
