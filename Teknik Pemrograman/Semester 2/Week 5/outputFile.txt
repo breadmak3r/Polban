@@ -2,8 +2,8 @@
 Number of employees working as MANAGER are: 1
 ******************************************************
 1. Manager Details:
-Store Details: Store ABC
-Employee Name: John Doe
+Store Details: Store Noxus
+Employee Name: Darius
 Base Pay: $2000.0
 Number of Hours worked: 40.0hrs
 Payment Rate per hour: $15.0/hr
@@ -16,8 +16,8 @@ Remaining store revenue: $405783.0
 Number of employees working as SALES ASSOCIATES are: 1
 ******************************************************
 1. Sales Associate Details:
-Store Details: Store XYZ
-Employee Name: Jane Smith
+Store Details: Store Piltover
+Employee Name: Caitlyn
 Base Pay: $10.0
 Number of Hours worked: 35.0hrs
 Payment Rate per hour: $20.0/hr
@@ -28,8 +28,8 @@ Gross Payment: $710.0
 Number of employees working as SECURITY GUARDS are: 1
 ******************************************************
 1. Security Guard Details:
-Store Details: Store LMN
-Employee Name: Bob Johnson
+Store Details: Store Ionia
+Employee Name: Sett
 Base Pay: $12.0
 Number of Hours worked: 30.0hrs
 Payment Rate per hour: $10.0/hr
