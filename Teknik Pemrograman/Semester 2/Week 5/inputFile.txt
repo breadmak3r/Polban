@@ -1,21 +1,21 @@
 Manager
-Store ABC
-John Doe
+Store Noxus
+Darius
 2000.00
 40
 15
 10000
 500000
 Sales Associate
-Store XYZ
-Jane Smith
+Store Piltover
+Caitlyn
 10.00
 35
 20
 0.25
 Security Guard
-Store LMN
-Bob Johnson
+Store Ionia
+Sett
 12.00
 30
 10
