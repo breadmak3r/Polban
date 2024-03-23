@@ -45,10 +45,6 @@ void insertAkhir(int value){
     Last = current;
 }
 
-void deleteAkhir(){
-    temp = Last;
-    
-}
 
 void showData(){
     address current = First;
