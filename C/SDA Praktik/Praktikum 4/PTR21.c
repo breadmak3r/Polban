@@ -31,6 +31,26 @@ void insertAwal(int value){
     First = newNode;
 }
 
+void insertTengah(int value, int pos){
+    address newNode = Alokasi(value);
+    if (First == Nil) {
+        First = newNode;
+        return;
+    }
+    address current = First;
+    int count = 1;
+    while (current != Nil && count < pos - 1) {
+        current = current->next;
+        count++;
+    }
+    if (current == Nil) {
+        printf("Posisi tidak valid!\n");
+        return;
+    }
+    newNode->next = current->next;
+    current->next = newNode;
+}
+
 void insertAkhir(int value){
     address newNode = Alokasi(value);
     if(First == Nil){
@@ -44,7 +64,6 @@ void insertAkhir(int value){
     current->next = newNode;
     Last = current;
 }
-
 
 void showData(){
     address current = First;
@@ -62,7 +81,7 @@ void showData(){
 }
 
 int main(){
-    address P, Q, F;
+    address P, Q;
     First = Nil;
 
     P = (address) malloc(sizeof(Elmtlist));
@@ -82,9 +101,10 @@ int main(){
     next(P) = First;
     First = P;
 
-    insertAkhir(0);
-    insertAwal(16);
-    showData();
+    insertAwal(40);         // Menambahkan node dengan nilai 40 pada posisi pertama
+    insertTengah(16, 5);    // Menambahkan node dengan nilai 16 pada posisi ke-5
+    insertAkhir(0);         // Menambahkan node dengan nilai 0 pada posisi terakhir
+    showData();             // Menampilkan isi semua node
 
     return 0;
 }
